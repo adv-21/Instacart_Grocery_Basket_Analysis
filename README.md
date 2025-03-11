@@ -29,7 +29,7 @@ profiles? Consider the price of orders, the frequency of orders, the products
 customers are ordering, and anything else you can think of.
 
 ## Data
-Datasets used for this project:\
+Datasets used for this project:
 
 ● Customers\
 ● Departments\
@@ -42,7 +42,7 @@ have been fabricated for the purpose of this Career Foundry Acheivement
 
 ## Coding Tools
 
-This analysis was executed using Python in Jupyter Notebook utilizing the following libraries:\
+This analysis was executed using Python in Jupyter Notebook utilizing the following libraries:
 
 ● Pandas: Data manipulation and analysis\
 ● NumPy: For numerical and scientific operations\
@@ -52,12 +52,12 @@ This analysis was executed using Python in Jupyter Notebook utilizing the follow
 
 ## Folders
 
-● Project Management: Project Brief\ 
+● Project Management: Project Brief
 
-● Data: Contains two subfolders, Original Data and Prepared Data. Original Data contains original data as provided by Instacart and Preparted Data contains the cleaned data after it was prepared for analysis. The actual data files not uploaded to GitHub due to file size constraints.\
+● Data: Contains two subfolders, Original Data and Prepared Data. Original Data contains original data as provided by Instacart and Preparted Data contains the cleaned data after it was prepared for analysis. The actual data files not uploaded to GitHub due to file size constraints.
 
-● Scripts: The Jupyter notebooks containing the code executed for analysis.\
+● Scripts: The Jupyter notebooks containing the code executed for analysis.
 
-● Analysis: Contains the Visualizations folder which contains all the visualization produced for the analysis and final presentation.\
+● Analysis: Contains the Visualizations folder which contains all the visualization produced for the analysis and final presentation.
 
 Sent to Client: The final excel report presenting all analysis and reccomendations. 

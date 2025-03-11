@@ -60,4 +60,4 @@ This analysis was executed using Python in Jupyter Notebook utilizing the follow
 
 ● Analysis: Contains the Visualizations folder which contains all the visualization produced for the analysis and final presentation.
 
-Sent to Client: The final excel report presenting all analysis and reccomendations. 
+● Sent to Client: The final excel report presenting all analysis and reccomendations. 

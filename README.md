@@ -1,7 +1,7 @@
 # Instacart_Grocery_Basket_Analysis 
 ## Objective
 My task was to perform an initial data and exploratory analysis of some of their data in order
-to derive insights and suggest strategies for better segmentation/
+to derive insights and suggest strategies for better segmentation
 ## Key Questions
 ● The sales team needs to know what the busiest days of the week and hours of the
 day are (i.e., the days and times with the most orders) in order to schedule ads at
